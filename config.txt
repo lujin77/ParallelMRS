@@ -1,0 +1,11 @@
+map_num=2
+
+reduce_num=2
+
+map_bin=mapper.py
+
+reduce_bin=reducer.py
+
+input_file=data/10MB_docs.txt
+
+output_dir=./output
